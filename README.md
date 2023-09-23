@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I recently started using Swift for the first time, and while it's a new programming language to me, my previous experience with other programming languages has been incredibly beneficial. Having a foundation in languages like Python and Java allowed me to quickly grasp Swift's syntax and concepts. It's fascinating to see how my understanding of programming principles seamlessly translates across languages, making the learning curve for Swift smoother than I initially expected. While I'm still getting the hang of Swift's unique features and quirks, my prior coding experience has proven to be a valuable asset in this exciting journey of mastering a new language.
 
 ## License
 
@@ -49,27 +49,27 @@ Describe any challenges encountered while building the app.
     limitations under the License.
 
 
-# Project 2 - *Name of App Here*
+# Project 2 - Wordle
 
-Submitted by: **Your Name Here**
+Submitted by: Lixing Zheng
 
-**Name of your app** is an app that ... [TODO] 
+Wordle is an app that allow users to play word guessing. 
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can change the number of letters per row (the length of the goal word)
-- [ ] User can change the numbers of rows on the board (how many guesses allowed)
-- [ ] User can select a new themed set to pull the goal word from
-- [ ] User can select "alien wordle", causing the goal word to change after each guess
+- [✓] User can change the number of letters per row (the length of the goal word)
+- [✓] User can change the numbers of rows on the board (how many guesses allowed)
+- [✓] User can select a new themed set to pull the goal word from
+- [✓] User can select "alien wordle", causing the goal word to change after each guess
 
 
 The following **optional** features are implemented:
 
-- [ ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
+- [✓] App displays a reset button on the top left to reset the game (but make no changes to the settings)
 
 The following **additional** features are implemented:
 
