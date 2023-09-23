@@ -24,8 +24,8 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+http://img.youtube.com/vi/9pJIkaKjtWU/0.jpg
 
-<iframe width="335" height="596" src="https://www.youtube.com/embed/9pJIkaKjtWU" title="Wordle   2023 09 21 at 12 31 41" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Notes
 
