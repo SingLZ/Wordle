@@ -82,7 +82,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I felt like this second part was more simple than the first part since most of the codes was very similar in all the exercises. There was still some misunderstandings, but I manages to get through most of them and the hints were very helpful. 
 
 ## License
 
